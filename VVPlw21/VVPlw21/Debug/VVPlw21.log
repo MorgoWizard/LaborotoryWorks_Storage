@@ -1,0 +1,13 @@
+﻿  VVPlw21.cpp
+C:\Users\Никита\source\repos\VVPlw21\VVPlw21\VVPlw21.cpp(51,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw21\VVPlw21\VVPlw21.cpp(80,19): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Никита\source\repos\VVPlw21\VVPlw21\VVPlw21.cpp(90,23): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  VVPlw21.vcxproj -> C:\Users\Никита\source\repos\VVPlw21\Debug\VVPlw21.exe

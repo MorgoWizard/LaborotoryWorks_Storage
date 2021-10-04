@@ -1,0 +1,7 @@
+﻿  VVPlw10.cpp
+C:\Users\Никита\source\repos\VVPlw10\VVPlw10\VVPlw10.cpp(50,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw10\VVPlw10\VVPlw10.cpp(51,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw10\VVPlw10\VVPlw10.cpp(67,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw10\VVPlw10\VVPlw10.cpp(68,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw10\VVPlw10\VVPlw10.cpp(69,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  VVPlw10.vcxproj -> C:\Users\Никита\source\repos\VVPlw10\Debug\VVPlw10.exe

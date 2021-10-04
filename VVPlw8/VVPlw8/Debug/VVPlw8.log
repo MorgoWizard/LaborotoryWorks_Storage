@@ -1,0 +1,7 @@
+﻿  VVPlw8.cpp
+C:\Users\Никита\source\repos\VVPlw8\VVPlw8\VVPlw8.cpp(13,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw8\VVPlw8\VVPlw8.cpp(20,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw8\VVPlw8\VVPlw8.cpp(27,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw8\VVPlw8\VVPlw8.cpp(37,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw8\VVPlw8\VVPlw8.cpp(38,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  VVPlw8.vcxproj -> C:\Users\Никита\source\repos\VVPlw8\Debug\VVPlw8.exe

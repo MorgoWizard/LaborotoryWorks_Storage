@@ -1,0 +1,4 @@
+﻿  VVPlw9.cpp
+C:\Users\Никита\source\repos\VVPlw9\VVPlw9\VVPlw9.cpp(27,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\source\repos\VVPlw9\VVPlw9\VVPlw9.cpp(35,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  VVPlw9.vcxproj -> C:\Users\Никита\source\repos\VVPlw9\Debug\VVPlw9.exe
